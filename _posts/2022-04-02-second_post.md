@@ -7,9 +7,15 @@ Some Markdown using **tables** and **headings**
 
 # Largest
 
+___
+
 ### Third Largest
 
+***
+
 ###### Smallest
+
+---
 
 | Header 1 | Header 2 |
 |---|---|
