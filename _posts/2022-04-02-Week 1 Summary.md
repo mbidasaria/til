@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1 Summary!"
+title:  "Week 1 Summary"
 ---
 
 Some Markdown using **tables** and **headings**
