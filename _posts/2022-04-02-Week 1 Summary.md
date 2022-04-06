@@ -5,10 +5,6 @@ title:  "Week 1 Summary"
 
 Some Markdown using **tables** and **headings**
 
-# Largest
-
-___
-
 ### Third Largest
 
 ***
